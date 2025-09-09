@@ -3,7 +3,8 @@
 <h1 align="center">Hi, I'm Court</h1>
 
 <p align="center">
-  I love developing — mainly frontend and Lua.<br>
+  I am 17 years old.<br>
+  I love gymen and developing — mainly frontend and Lua.<br>
   Currently learning Python, C++, and Rust.
 </p>
 
