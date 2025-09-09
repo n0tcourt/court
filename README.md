@@ -1,6 +1,6 @@
 ![GitHub views](https://komarev.com/ghpvc/?username=n0tcourt&color=1bb5d7)
 
-<h1 align="center" style="color:#1bb5d7;">Hi, I'm Court</h1>
+<h1 align="center">Hi, I'm Court</h1>
 
 <p align="center">
   I love developing — mainly frontend and Lua.<br>
@@ -9,13 +9,13 @@
 
 ---
 
-### 🧠 Skills
+### 🍀 Skills
 
 - **Languages:** HTML, CSS (Tailwind), JavaScript (Next.js), Lua  
 - **Learning:** Python, C++, Rust  
 
 ---
 
-### 🤝 Let's Connect
+### 📬 Get in Touch
 
 - **Discord:** `n0tcourt`
