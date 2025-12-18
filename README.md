@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Court</h1>
 
 <p align="center">
-  I love developing - mainly frontend and Lua.<br>
+  I love developing - mainly backend and Lua.<br>
   Currently learning Python, C++, and Rust.<br>
   Currently working as a developer at @ Springbank Roleplay
 </p>
