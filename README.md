@@ -5,7 +5,7 @@
 <p align="center">
   I love developing - mainly backend and Lua.<br>
   Currently learning Python, C++, and Rust.<br>
-  Currently working as Sr Developer at @ Springbank Roleplay
+  Currently working as a Sr Developer at @ Springbank Roleplay
 </p>
 
 ---
